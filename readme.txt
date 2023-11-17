@@ -1,3 +1,3 @@
-# Book Auction Website 
+Book Auction Website 
 
-#### A new home for books
+A new home for books
